@@ -1,7 +1,11 @@
+/*
+Copyright © 2025 NAME HERE <EMAIL ADDRESS>
+
+*/
 package main
 
-import "fmt"
+import "github.com/primekobie/tidy-tree/cmd"
 
 func main() {
-	fmt.Println("hello, this is tidy tree")
+	cmd.Execute()
 }

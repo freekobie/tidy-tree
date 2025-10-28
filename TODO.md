@@ -165,7 +165,7 @@ Create a cross-platform CLI utility that:
 - [ ] Build cross-platform binaries (`goreleaser`)
 - [ ] Output to `dist/tdt_<os>_<arch>.tar.gz`
 - [ ] Homebrew tap for macOS users
-- [ ] `go install github.com/primekobie/tidy-tree/cmd/tdt@latest`
+- [ ] `go install github.com/freekobie/tidy-tree/cmd/tdt@latest`
 - [ ] Version tagging and changelog
 
 ---

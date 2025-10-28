@@ -1,10 +1,9 @@
 /*
 Copyright © 2025 NAME HERE <EMAIL ADDRESS>
-
 */
 package main
 
-import "github.com/primekobie/tidy-tree/cmd"
+import "github.com/freekobie/tidy-tree/cmd"
 
 func main() {
 	cmd.Execute()

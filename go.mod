@@ -1,4 +1,4 @@
-module github.com/primekobie/tidy-tree
+module github.com/freekobie/tidy-tree
 
 go 1.25.3
 
